@@ -1,5 +1,4 @@
 # photo-voice-tags
-Automatically exported from code.google.com/p/photo-voice-tags
 
 Photo Voice Tags is an Android app for attaching voice memos to gallery images.
 
