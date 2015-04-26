@@ -1,11 +1,13 @@
 How it works:
 
-1. Select a photo from your gallery.
+1. Launch photo tags app.
 
-2. Record a Voice Tag.
+2. Select a photo from your gallery.
 
-3. That's it!
+3. Listen to, Record, Rerecord, Delete voice tags.
 
-Next time you tap that image the Voice Tag plays.
+Tips:
 
-Background Mode enables listening to your tags directly from the gallery view.
+1. Use your Back Button to toggle between states.
+
+2. When adding voice tags to images in your Dropbox select "Show All" on selection screen.
